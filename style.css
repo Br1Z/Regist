@@ -1,0 +1,92 @@
+.style_button1{
+	margin-top: 30px;
+	width: 120px;
+	height: 25px;
+}
+.style_button2{
+	margin-top: 10px; 
+	width: 120px;
+	height: 25px;
+
+}
+.bloc_for_button{
+	width:  200px; 
+	height: 180px;
+	/*background-color: #ffffff;*/
+	background-color: rgba(225, 225, 225, 0.8);
+	margin-top: 250px;
+}
+.buttons{
+	text-align: center;
+	padding: 15px;
+}
+.txt_above_button{
+	font-size: 14px;
+}
+.Reg_txt{
+	font-size: 18px;
+	text-transform: uppercase;
+}
+.box_txt{
+	width: 25%;
+	padding: 10px;
+	padding-bottom: 20px;
+	text-align: center;
+	background-color: #7ec0ee;
+}
+.LogTxt{
+	font-size: 18px;
+	text-transform: uppercase;
+}
+
+.Logbutton{
+	width: 150px;
+	height: 30px;
+	margin-top: 15px;
+	background-color: 
+	outline: none;
+	
+}
+.gif{
+	width: 200px;
+	height: 150px;
+	margin-top: 15px;
+}
+a{
+	color: #000000;
+	text-decoration:none;
+}
+a:hover{
+	color: red;
+}
+.textarea {
+	margin-top: 25px;
+    width: 40%; /* Ширина поля в процентах */
+    height: 190px; /* Высота поля в пикселах */
+	resize: none; /* Запрещаем изменять размер */
+} 
+.back{
+	margin-top: 25px;
+}
+.choiceUsers{
+	position: absolute;
+	left:20px;
+	top:20px;
+	height: 300px;
+}
+.acceptedMessage{
+	padding: 10px;
+	text-align: left;
+	width: 700px;
+	height: 200px;
+	border: 2px solid; 
+	
+}
+.content{
+	display: block;
+	height: 200px;
+	overflow-y: auto;
+}
+.deleteAccaunt{
+	
+}
